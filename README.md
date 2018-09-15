@@ -1,4 +1,8 @@
-# twilio-itsoktobene
+# twilio-itsoktoben
+
+Available on Docker Hub:
+
+`docker pull ianauger/twilio-itsoktobenew`
 
 This is a pretty basic Python app which uses the Twilio API to send a text reassuring you that yes, it's okay to be new.
 
